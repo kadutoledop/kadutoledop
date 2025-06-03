@@ -1,16 +1,54 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Kadu Toledo 👋</h1>
+<h3 align="center">Doutorando em Matemática Aplicada | Data Scientist</h3>
 
-<!--
-**kadutoledop/kadutoledop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:kadutoledop@gmail.com">📧 kadutoledop@gmail.com</a> • 
+  <a href="https://www.linkedin.com/in/kadu-toledo-800264b3/">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Formação Acadêmica**
+- 🎓 Doutorado em Matemática Aplicada — UNICAMP (2023 - Atual)
+- 📊 Pós-graduação em Ciência de Dados e Big Data — PUC Minas
+- 🧮 Mestrado em Matemática — UNESP
+- 📐 Graduação em Matemática — USP
+
+---
+
+🧠 **Sobre mim**
+
+Sou pesquisador e desenvolvedor com sólida formação acadêmica e foco em:
+- Lógica Fuzzy
+- Cálculo Fuzzy
+- Modelagem de Dados Incertos
+- Modelagem Matemática em Biologia (Biomatemática) e Fenômenos Físicos
+- Machine Learning e Análise de Dados
+
+---
+
+💻 **Habilidades Técnicas**
+
+- **Linguagens**: Python (Pandas, Numpy, Scikit-learn, TensorFlow, Keras), SQL, Octave
+- **Big Data & Cloud**: AWS (SageMaker, Glue, Athena, S3)
+- **Ferramentas**: Excel, Jupyter, Git, GitHub
+- **Visualização**: Matplotlib, Seaborn, Power BI
+- **Outros**: Ensino de Matemática, Redação Científica, Modelagem de Sistemas Complexos
+
+---
+
+📚 **Experiência Docente**
+
+- 👨‍🏫 Professor de Matemática (Ensino Médio e Pré-Vestibular) — Ipê Amarelo e Colégio Objetivo
+- 🎓 Facilitador na UNIVESP — Monitoria em Ciência de Dados e Matemática
+- 🔬 Iniciação Científica (USP) — EDOs e modelos epidemiológicos
+
+---
+
+📌 **Projetos em Destaque**
+(veja mais no meu [GitHub](https://github.com/kadutoledop))
+
+```bash
+🔬 Modelagem fuzzy em Python com aplicações biomatemáticas
+📊 Visualizações interativas com dados reais (gráficos epidemiológicos)
+📈 Projetos de Análise de Dados e Machine Learning
