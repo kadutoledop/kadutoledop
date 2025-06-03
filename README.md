@@ -47,7 +47,6 @@ Sou pesquisador e desenvolvedor com sólida formação acadêmica e foco em:
 ---
 
 📌 **Projetos em Destaque**
-(veja mais no meu [GitHub](https://github.com/kadutoledop))
 
 ```bash
 📈 Projetos de Análise de Dados e Machine Learning
