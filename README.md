@@ -49,6 +49,4 @@ Sou pesquisador e desenvolvedor com sólida formação acadêmica e foco em:
 (veja mais no meu [GitHub](https://github.com/kadutoledop))
 
 ```bash
-🔬 Modelagem fuzzy em Python com aplicações biomatemáticas
-📊 Visualizações interativas com dados reais (gráficos epidemiológicos)
 📈 Projetos de Análise de Dados e Machine Learning
