@@ -3,7 +3,8 @@
 
 <p align="center">
   <a href="mailto:kadutoledop@gmail.com">📧 kadutoledop@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/kadu-toledo-800264b3/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/kadu-toledo-800264b3/">LinkedIn</a> • 
+  <a href="http://lattes.cnpq.br/0998472291393028">Currículo Lattes</a>
 </p>
 
 ---
