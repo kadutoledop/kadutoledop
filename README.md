@@ -11,8 +11,8 @@
 
 🎓 **Formação Acadêmica**
 - 🎓 Doutorado em Matemática Aplicada — UNICAMP (2023 - Atual)
-- 📊 Pós-graduação em Ciência de Dados e Big Data — PUC Minas
 - 🧮 Mestrado em Matemática — UNESP
+- 📊 Pós-graduação em Ciência de Dados e Big Data — PUC Minas
 - 📐 Graduação em Matemática — USP
 
 ---
@@ -20,11 +20,11 @@
 🧠 **Sobre mim**
 
 Sou pesquisador e desenvolvedor com sólida formação acadêmica e foco em:
+- Modelagem Matemática
+- Análise Estatística
+- Machine Learning e Análise de Dados
 - Lógica Fuzzy
 - Cálculo Fuzzy
-- Modelagem de Dados Incertos
-- Modelagem Matemática em Biologia (Biomatemática) e Fenômenos Físicos
-- Machine Learning e Análise de Dados
 
 ---
 
@@ -34,7 +34,7 @@ Sou pesquisador e desenvolvedor com sólida formação acadêmica e foco em:
 - **Big Data & Cloud**: AWS (SageMaker, Glue, Athena, S3)
 - **Ferramentas**: Excel, Jupyter, Git, GitHub
 - **Visualização**: Matplotlib, Seaborn, Power BI
-- **Outros**: Ensino de Matemática, Redação Científica, Modelagem de Sistemas Complexos
+- **Outros**: Ensino de Matemática, Redação Científica
 
 ---
 
