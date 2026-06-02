@@ -76,7 +76,6 @@ Aplicações de modelagem preditiva, análise exploratória de dados, engenharia
 
 ## 📚 Publicações e Pesquisa
 
-* Artigo aceito no **IEEE Transactions on Fuzzy Systems**
 * Pesquisas em Matemática Aplicada, Ciência de Dados e Sistemas Fuzzy
 * Quantificação de Incertezas e Modelagem Estatística
 * Sistemas Dinâmicos e Otimização
@@ -85,7 +84,7 @@ Aplicações de modelagem preditiva, análise exploratória de dados, engenharia
 
 ## 🎓 Formação
 
-* Doutorado em Matemática Aplicada — UNICAMP
+* Doutorado em andamento em Matemática Aplicada — UNICAMP
 * Mestrado em Matemática — UNESP
 * Pós-graduação em Ciência de Dados e Big Data — PUC Minas
 * Graduação em Matemática — USP
