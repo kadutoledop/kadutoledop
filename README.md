@@ -1,52 +1,96 @@
-<h1 align="center">Olá, eu sou o Kadu Toledo 👋</h1>
-<h3 align="center">Doutorando em Matemática Aplicada | Data Scientist</h3>
+# Olá, eu sou o Kadu Toledo 👋
 
-<p align="center">
-  <a href="mailto:kadutoledop@gmail.com">📧 kadutoledop@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/kadu-toledo-800264b3/">LinkedIn</a> • 
-  <a href="http://lattes.cnpq.br/0998472291393028">Currículo Lattes</a>
-</p>
+### Data Scientist | Applied Mathematics PhD Candidate
+
+📧 [kadutoledop@gmail.com](mailto:kadutoledop@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kadu-toledo-800264b3/) • [Currículo Lattes](http://lattes.cnpq.br/0998472291393028)
 
 ---
 
-🎓 **Formação Acadêmica**
-- 🎓 Doutorado em Matemática Aplicada — UNICAMP (2023 - Atual)
-- 🧮 Mestrado em Matemática — UNESP
-- 📊 Pós-graduação em Ciência de Dados e Big Data — PUC Minas
-- 📐 Graduação em Matemática — USP
+## 🧠 Sobre Mim
+
+Sou Cientista de Dados e pesquisador em Matemática Aplicada, atuando no desenvolvimento de modelos estatísticos, soluções analíticas e aplicações de Machine Learning para problemas envolvendo previsão, incerteza e tomada de decisão.
+
+Minha experiência combina pesquisa quantitativa avançada com aplicações práticas em Ciência de Dados, Modelagem Preditiva, Sistemas Fuzzy, Sistemas Dinâmicos e Otimização.
 
 ---
 
-🧠 **Sobre mim**
+## 💻 Competências Técnicas
 
-Sou pesquisador e desenvolvedor com sólida formação acadêmica e foco em:
-- Modelagem Matemática
-- Análise Estatística
-- Machine Learning e Análise de Dados
-- Lógica Fuzzy
-- Cálculo Fuzzy
+### Linguagens e Bibliotecas
 
----
+* Python (Pandas, NumPy, Scikit-Learn, TensorFlow, Keras)
+* SQL
+* GNU Octave
 
-💻 **Habilidades Técnicas**
+### Cloud e Dados
 
-- **Linguagens**: Python (Pandas, Numpy, Scikit-learn, TensorFlow, Keras), SQL, Octave
-- **Big Data & Cloud**: AWS (SageMaker, Glue, Athena, S3)
-- **Ferramentas**: Excel, Jupyter, Git, GitHub
-- **Visualização**: Matplotlib, Seaborn, Power BI
-- **Outros**: Ensino de Matemática, Redação Científica
+* AWS (SageMaker, Athena, Glue, S3)
 
----
+### Visualização
 
-📚 **Experiência Docente**
+* Matplotlib
+* Seaborn
+* Power BI
 
-- 👨‍🏫 Professor de Matemática (Ensino Médio e Pré-Vestibular) — Ipê Amarelo e Colégio Objetivo
-- 🎓 Facilitador na UNIVESP — Monitoria em Ciência de Dados e Matemática
-- 🔬 Iniciação Científica (USP) — EDOs e modelos epidemiológicos
+### Ferramentas
+
+* Git
+* GitHub
+* Jupyter Notebook
 
 ---
 
-📌 **Projetos em Destaque**
+## 🔬 Áreas de Interesse
+
+* Machine Learning
+* Análise da Dados
+* Modelagem Preditiva
+* Estatística Aplicada
+* Quantificação de Incertezas
+* Sistemas Fuzzy
+* Sistemas Dinâmicos
+* Otimização
+* Inteligência Artificial
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 📈 Fuzzy Regression in the Hilbert Space of A-Linearly Correlated Fuzzy Numbers
+
+Desenvolvimento de métodos de regressão para dados incertos utilizando matemática fuzzy, estimação estatística e técnicas de quantificação de incertezas.
+
+### ⚡ Electrochemical Impedance Modeling
+
+Aplicação de métodos de máxima verossimilhança e quantificação de incertezas em sistemas eletroquímicos e espectroscopia de impedância.
+
+### 🦠 Epidemiological Modeling
+
+Análise matemática e computacional de modelos epidemiológicos utilizando equações diferenciais, sistemas dinâmicos e simulações numéricas.
+
+### 🤖 Machine Learning Projects
+
+Aplicações de modelagem preditiva, análise exploratória de dados, engenharia de atributos e aprendizado supervisionado utilizando Python e Scikit-Learn.
+
+---
+
+## 📚 Publicações e Pesquisa
+
+* Artigo aceito no **IEEE Transactions on Fuzzy Systems**
+* Pesquisas em Matemática Aplicada, Ciência de Dados e Sistemas Fuzzy
+* Quantificação de Incertezas e Modelagem Estatística
+* Sistemas Dinâmicos e Otimização
+
+---
+
+## 🎓 Formação
+
+* Doutorado em Matemática Aplicada — UNICAMP
+* Mestrado em Matemática — UNESP
+* Pós-graduação em Ciência de Dados e Big Data — PUC Minas
+* Graduação em Matemática — USP
+
+
 
 ```bash
 📈 Projetos de Análise de Dados e Machine Learning
