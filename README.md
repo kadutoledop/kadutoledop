@@ -88,8 +88,3 @@ Aplicações de modelagem preditiva, análise exploratória de dados, engenharia
 * Mestrado em Matemática — UNESP
 * Pós-graduação em Ciência de Dados e Big Data — PUC Minas
 * Graduação em Matemática — USP
-
-
-
-```bash
-📈 Projetos de Análise de Dados e Machine Learning
