@@ -8,9 +8,9 @@
 
 ## 🧠 Sobre Mim
 
-Sou Cientista de Dados e pesquisador em Matemática Aplicada, atuando no desenvolvimento de modelos estatísticos, soluções analíticas e aplicações de Machine Learning para problemas envolvendo previsão, incerteza e tomada de decisão.
+Sou Cientista de Dados e pesquisador em Matemática Aplicada, atuando no desenvolvimento de modelos matemáticos, soluções analíticas e aplicações de Machine Learning para problemas envolvendo previsão, incerteza e tomada de decisão.
 
-Minha experiência combina pesquisa quantitativa avançada com aplicações práticas em Ciência de Dados, Modelagem Preditiva, Sistemas Fuzzy, Sistemas Dinâmicos e Otimização.
+Minha experiência combina pesquisa quantitativa avançada com aplicações práticas em Ciência de Dados, Modelagem Preditiva, Estatística, Lógica Fuzzy, Sistemas Dinâmicos e Otimização.
 
 ---
 
