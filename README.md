@@ -21,6 +21,7 @@ Minha experiência combina pesquisa quantitativa avançada com aplicações prá
 * Python (Pandas, NumPy, Scikit-Learn, TensorFlow, Keras)
 * SQL
 * GNU Octave
+* C
 
 ### Cloud e Dados
 
