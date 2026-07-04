@@ -85,7 +85,8 @@ Aplicações de modelagem preditiva, análise exploratória de dados, engenharia
 
 ## 🎓 Formação
 
-* Doutorado em andamento em Matemática Aplicada — UNICAMP
+* Doutorado em andamento em Matemática Aplicada - UNICAMP
 * Mestrado em Matemática — UNESP
+* Graudação em Matemática - USP
 * Pós-graduação em Ciência de Dados e Big Data — PUC Minas
 * Graduação em Matemática — USP
