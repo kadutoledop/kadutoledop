@@ -32,12 +32,7 @@ Minha experiência combina pesquisa quantitativa avançada com aplicações prá
 * Matplotlib
 * Seaborn
 * Power BI
-
-### Ferramentas
-
-* Git
-* GitHub
-* Jupyter Notebook
+* Streamlit
 
 ---
 
@@ -48,7 +43,7 @@ Minha experiência combina pesquisa quantitativa avançada com aplicações prá
 * Modelagem Preditiva
 * Estatística Aplicada
 * Quantificação de Incertezas
-* Sistemas Fuzzy
+* Lógica Fuzzy
 * Sistemas Dinâmicos
 * Otimização
 * Inteligência Artificial
