@@ -8,9 +8,7 @@
 
 ## 🧠 Sobre Mim
 
-Sou Cientista de Dados e pesquisador em Matemática Aplicada, atuando no desenvolvimento de modelos matemáticos, soluções analíticas e aplicações de Machine Learning para problemas envolvendo previsão, incerteza e tomada de decisão.
-
-Minha experiência combina pesquisa quantitativa avançada com aplicações práticas em Ciência de Dados, Modelagem Preditiva, Estatística, Lógica Fuzzy, Sistemas Dinâmicos e Otimização.
+Sou Cientista de Dados com formação em Matemática. Doutorando em Matemática Aplicada pela UNICAMP, com experiência em modelagem preditiva, análise de dados e quantificação de incertezas para suporte à tomada de decisão. Minha atuação combina pesquisa quantitativa e ciência de dados, com aplicação de métodos matemáticos e computacionais em problemas envolvendo dados incertos, lógica fuzzy, otimização e sistemas dinâmicos. Desenvolvo soluções analíticas e computacionais em Python e aplico técnicas de estatística e aprendizado de máquina em diferentes etapas do ciclo de dados, incluindo preparação e análise exploratória, construção, validação e interpretação de modelos. 
 
 ---
 
@@ -38,16 +36,13 @@ Minha experiência combina pesquisa quantitativa avançada com aplicações prá
 
 ## 🔬 Áreas de Interesse
 
+* Ciência da Dados
 * Machine Learning
-* Análise da Dados
 * Modelagem Preditiva
-* Estatística Aplicada
-* Quantificação de Incertezas
+* Modelagem Estatística
 * Lógica Fuzzy
 * Sistemas Dinâmicos
 * Otimização
-* Inteligência Artificial
-
 ---
 
 ## 🚀 Projetos em Destaque
