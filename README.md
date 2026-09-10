@@ -8,7 +8,13 @@
 
 ## 🧠 Sobre Mim
 
-Sou Cientista de Dados com formação em Matemática. Doutorando em Matemática Aplicada pela UNICAMP, com experiência em modelagem preditiva, análise de dados e quantificação de incertezas para suporte à tomada de decisão. Minha atuação combina pesquisa quantitativa e ciência de dados, com aplicação de métodos matemáticos e computacionais em problemas envolvendo dados incertos, lógica fuzzy, otimização e sistemas dinâmicos. Desenvolvo soluções analíticas e computacionais em Python e aplico técnicas de estatística e aprendizado de máquina em diferentes etapas do ciclo de dados, incluindo preparação e análise exploratória, construção, validação e interpretação de modelos. 
+Cientista de Dados com formação em Matemática e doutorando em Matemática Aplicada pela UNICAMP, com experiência em modelagem estatística e preditiva, análise de dados e quantificação de incertezas para suporte à tomada de decisão. Minha atuação combina pesquisa quantitativa e Ciência de Dados, com aplicação de métodos estatísticos, matemáticos e computacionais em problemas envolvendo dados incertos, sistemas dinâmicos fuzzy e otimização. 
+
+Desenvolvo soluções em Python e aplico técnicas de Estatística e Machine Learning em diferentes etapas do ciclo de dados, incluindo preparação e análise exploratória, construção, validação e interpretação de modelos. 
+
+Competências: Python, SQL, Machine Learning, Modelagem Estatística, Modelagem Preditiva, Análise de Dados, Power BI, Pandas, NumPy, Scikit-Learn, TensorFlow, Streamlit, AWS, C e Octave. 
+
+Mantenho projetos aplicados de Ciência de Dados e Machine Learning publicados no GitHub: github.com/kadutoledop
 
 ---
 
