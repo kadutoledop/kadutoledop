@@ -44,11 +44,11 @@ Mantenho projetos aplicados de Ciência de Dados e Machine Learning publicados n
 
 * Ciência da Dados
 * Machine Learning
-* Modelagem Preditiva
+* Modelagem Matemática
 * Modelagem Estatística
+* Otimização
 * Lógica Fuzzy
 * Sistemas Dinâmicos
-* Otimização
 ---
 
 ## 🚀 Projetos em Destaque
@@ -68,14 +68,6 @@ Análise matemática e computacional de modelos epidemiológicos utilizando equa
 ### 🤖 Machine Learning Projects
 
 Aplicações de modelagem preditiva, análise exploratória de dados, engenharia de atributos e aprendizado supervisionado utilizando Python e Scikit-Learn.
-
----
-
-## 📚 Publicações e Pesquisa
-
-* Pesquisas em Matemática Aplicada, Ciência de Dados e Sistemas Fuzzy
-* Quantificação de Incertezas e Modelagem Estatística
-* Sistemas Dinâmicos e Otimização
 
 ---
 
